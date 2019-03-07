@@ -1,0 +1,14 @@
+h3.article-title {
+  font-size: 1.0rem;
+  line-height: 1.5rem;
+  padding-bottom: 0.25rem;
+}
+
+.project-showcase {
+  margin-bottom: -7.5rem;
+}
+
+.project-showcase .project-item {
+  margin-bottom: 3rem;
+  font-size: 0.8rem;
+}
