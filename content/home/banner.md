@@ -37,7 +37,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-top: 200px; background-position: top; background-attachment: fixed; background-position: 0px -80px; background-size: 1920px"
+css_style = "height: 250px; background-position: center -80px; background-size: 1920px; background-repeat: repeat-x"
  
  # CSS class.
  css_class = ""
