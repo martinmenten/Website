@@ -77,7 +77,7 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-I am a postdoc researching real-time adaptive radiotherapy in the group of [Professor Uwe Oelfke](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-uwe-oelfke) at the [Institute of Cancer Research](https://www.icr.ac.uk) in London.
+I am a postdoctoral research fellow at the [Institute of Cancer Research](https://www.icr.ac.uk) in London researching real-time adaptive radiotherapy in the group of [Professor Uwe Oelfke](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-uwe-oelfke).
 
 I recently obtained my PhD in medical physics from the ICR. Before that, I studied physics at Heidelberg University, Germany, while completing research projects at the German Cancer Research Center and University of Wisconsin-Madison, USA.
 
