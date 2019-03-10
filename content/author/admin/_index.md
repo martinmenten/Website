@@ -77,6 +77,8 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-I am a postdoctoral research fellow at the [Institute of Cancer Research](https://www.icr.ac.uk) working on real-time adaptive radiotherapy in the group of [Professor Uwe Oelfke](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-uwe-oelfke). 
+I am a postdoc researching real-time adaptive radiotherapy in the group of [Professor Uwe Oelfke](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-uwe-oelfke) at the [Institute of Cancer Research](https://www.icr.ac.uk) in London.
 
-Radiotherapy treats cancer by targeted exposure of tumors to ionizing radiation. Its effect is often diminished by changes in the patient's anatomy during dose delivery as these may lead to underdosage of the tumor and unwanted irradiation of nearby organs. [My research](#publications) focusses on adapting radiotherapy treatments to anatomical changes encountered during dose delivery.
+I recently obtained my PhD in medical physics from the ICR. Before that, I studied physics at Heidelberg University, Germany, while completing research projects at the German Cancer Research Center and University of Wisconsin-Madison, USA.
+
+Radiotherapy treats cancer by targeted exposure of tumors to ionizing radiation. Its effect is often diminished by changes in the patient's anatomy during dose delivery as these may lead to underdosage of the tumor and unwanted irradiation of nearby organs. My research focusses on adapting radiotherapy treatments to anatomical changes encountered during dose delivery.
