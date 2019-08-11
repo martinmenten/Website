@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "For a complete list of my publications, please check out my [Google Scholar profile](https://scholar.google.co.uk/citations?user=FSlGL2oAAAAJ)."
+subtitle = "For a complete and up-to-date list of my publications, please check out my [Google Scholar profile](https://scholar.google.co.uk/citations?user=FSlGL2oAAAAJ)."
 
 [content]
   # Page type to display. E.g. project.
