@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Postdoctoral Research Fellow"
+role = "Physicist <br> turned cancer researcher <br> turned computer scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -30,8 +30,8 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]
-#  course = "PhD in Medical Physics"
-#  institution = "The Institute of Cancer Research,University of London, UK"
+#  course = "PhD in Physics"
+#  institution = "The Institute of Cancer Research, London, UK"
 #  year = 2018
 
 #[[education.courses]]
@@ -52,7 +52,7 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:martin.menten@icr.ac.uk"
+  link = "mailto:m.menten@imperial.ac.uk"
 
 [[social]]
   icon = "linkedin"
@@ -77,8 +77,8 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-I am a postdoctoral research fellow at the [Institute of Cancer Research](https://www.icr.ac.uk) in London researching real-time adaptive radiotherapy in the group of [Professor Uwe Oelfke](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-uwe-oelfke).
+I recently joined the [BioMedIA](https://biomedia.doc.ic.ac.uk/) group at [Imperial College London](https://www.imperial.ac.uk/) as a postdoctoral researcher. Working together with [Professor Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), I am exploring the use of deep learning to advance the understanding and diagnosis of age-related macular degeneration, the leading cause of blindness in the elderly.
 
-I recently obtained my PhD in medical physics from the ICR. Before that, I studied physics at Heidelberg University, Germany, while completing research projects at the German Cancer Research Center and University of Wisconsin-Madison, USA.
+Previously, I received my PhD in physics from the [Institute of Cancer Research](https://www.icr.ac.uk) in 2018. In the team  of [Professor Uwe Oelfke](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-uwe-oelfke), I researched strategies to adapt external beam radiotherapy to anatomical changes in real-time in order to increase cure rates and reduce side effects of cancer treatments.
 
-Radiotherapy treats cancer by targeted exposure of tumors to ionizing radiation. Its effect is often diminished by changes in the patient's anatomy during dose delivery as these may lead to underdosage of the tumor and unwanted irradiation of nearby organs. My research focusses on adapting radiotherapy treatments to anatomical changes encountered during dose delivery.
+Before that, I obtained my Master's degree in physics at [Heidelberg University](https://www.uni-heidelberg.de/de) in 2014, while completing research projects at the [German Cancer Research Center](https://www.dkfz.de) and [University of Wisconsin-Madison](https://www.wisc.edu).
