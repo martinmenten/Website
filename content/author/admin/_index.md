@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Physicist <br> turned cancer researcher <br> turned computer scientist"
+# role = "Physicist <br> turned cancer researcher <br> turned computer scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -52,22 +52,22 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:m.menten@imperial.ac.uk"
+  link = "mailto:martin.menten@tum.de"
+
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=FSlGL2oAAAAJ"
+
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://x.com/martinmenten"
 
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/martinmenten/"
-
-[[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Martin_Menten"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=FSlGL2oAAAAJ"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -77,8 +77,6 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-I recently joined the [BioMedIA](https://biomedia.doc.ic.ac.uk/) group at [Imperial College London](https://www.imperial.ac.uk/) as a postdoctoral researcher. Working together with [Professor Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), I am exploring the use of deep learning to advance the understanding and diagnosis of age-related macular degeneration, the leading cause of blindness in the elderly.
+I am an independent research group leader at the [Technical University Munich](https://www.tum.de). My group is funded by the [Emmy Noether Programme](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether) of the German Research Foundation and is hosted at the [Institute for AI in Healthcare and Medicine](https://www.aim-lab.io). I also have a secondary affiliation with [Imperial College London](https://www.imperial.ac.uk).
 
-Previously, I received my PhD in physics from the [Institute of Cancer Research](https://www.icr.ac.uk) in 2018. In the team  of [Professor Uwe Oelfke](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-uwe-oelfke), I researched strategies to adapt external beam radiotherapy to anatomical changes in real-time in order to increase cure rates and reduce side effects of cancer treatments.
-
-Before that, I obtained my Master's degree in physics at [Heidelberg University](https://www.uni-heidelberg.de/de) in 2014, while completing research projects at the [German Cancer Research Center](https://www.dkfz.de) and [University of Wisconsin-Madison](https://www.wisc.edu).
+I studied physics at the [University of Heidelberg](https://www.uni-heidelberg.de/en) from 2008 to 2014. Subsequently, I earned my PhD from the [Institute of Cancer Research](https://www.icr.ac.uk) in London, where I developed automated strategies to adapt external beam radiotherapy for cancer to anatomical changes. After completing my doctoral studies in 2019, I transitioned into computer science by joining the [Biomedical Image Analysis](https://biomedia.doc.ic.ac.uk) group at Imperial College London. In 2021, I moved to the Technical University of Munich, where I established my own independent research group in 2024.
