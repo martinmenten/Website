@@ -24,7 +24,7 @@ publication_short = ""
 abstract = "Stereotactic body radiotherapy (SBRT) is rapidly becoming an alternative to surgery for the treatment of early-stage non-small cell lung cancer patients. Lung SBRT is administered in a hypo-fractionated, conformal manner, delivering high doses to the target. To avoid normal-tissue toxicity, it is crucial to limit the exposure of nearby healthy organs-at-risk (OAR).<br/>Current image-guided radiotherapy strategies for lung SBRT are mostly based on X-ray imaging modalities. Although still in its infancy, magnetic resonance imaging (MRI) guidance for lung SBRT is not exposure-limited and MRI promises to improve crucial soft-tissue contrast. Looking beyond anatomical imaging, functional MRI is expected to inform treatment decisions and adaptations in the future.<br/>This review summarises and discusses how MRI could be advantageous to the different links of the radiotherapy treatment chain for lung SBRT: diagnosis and staging, tumour and OAR delineation, treatment planning, and inter- or intrafractional motion management. Special emphasis is placed on a new generation of hybrid MRI treatment devices and their potential for real-time adaptive radiotherapy."
 
 # Summary. An optional shortened abstract.
-summary = "*Physica Medica*"
+summary = "*Physica Medica, 2017*"
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.ejmp.2017.02.003"
