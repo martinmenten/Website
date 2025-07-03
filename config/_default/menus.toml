@@ -5,8 +5,13 @@
 
 [[main]]
   name = "About Me"
-  url = "#banner"
+  url = "#about"
   weight = 10
+
+[[main]]
+  name = "AI for Vision group"
+  url = "#group"
+  weight = 15
 
 [[main]]
   name = "Selected Publications"
